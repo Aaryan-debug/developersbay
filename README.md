@@ -1,46 +1,12 @@
-# Getting Started with Create React App
+DevHub is a full-stack web application that my bootcamp team and I developed over a two-week period. The platform is built using React.js, JavaScript, TailwindCSS, Redux, and Firebase. It is a social media website that is designed for developers to connect with each other and collaborate on development projects.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+One of the unique features of DevHub is the ability for developers to create 'mobs', which are teams that they can work on development projects with. The platform also includes chat functionality, which allows users to communicate with each other and collaborate more effectively. Other features of the platform include the ability to create and delete posts, add and delete friends, and add pictures. Firebase was used for authentication and back-end services, as well as for the chat functionality.
 
-## Available Scripts
+Throughout the development process, my team and I utilized agile project management methodologies to ensure that the project was delivered on time and met the project requirements. As a result of this project, I gained valuable skills in full-stack development, including front-end and back-end development, project management, and team collaboration.
 
-In the project directory, you can run:
+<div>
+<img width="700" alt="Screenshot 2023-05-01 at 3 40 55 PM" src="https://user-images.githubusercontent.com/56811780/235459799-9d65db67-dedf-4954-bd18-77b969ccf4cf.png">
+<img width="300" alt="Screenshot 2023-05-01 at 3 56 32 PM" src="https://user-images.githubusercontent.com/56811780/235462063-7fcbd9b7-6f9d-4e29-b1c6-d6fa18aa7d49.png">
+</div>
+<img width="1224" alt="Screenshot 2023-05-01 at 3 56 08 PM" src="https://user-images.githubusercontent.com/56811780/235462000-5ad31d62-f840-4ff8-aadf-0cdd79f3ec64.png">
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
