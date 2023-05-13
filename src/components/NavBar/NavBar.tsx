@@ -8,7 +8,7 @@ const NavBar = () => {
       <Link to="/">
         <div className="sm:text-sm md:text-xl lg:text-3xl xl:text-4xl font-bold sm:text-green-500 text-gray-900 dark:text-white">
           <span className="text-transparent bg-clip-text bg-green-400">
-            Dev<span className="text-green-600">Hub</span>
+            Developers<span className="text-green-600">Bay</span>
           </span>
         </div>
       </Link>

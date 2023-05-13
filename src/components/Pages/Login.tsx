@@ -99,7 +99,7 @@ const Login = () => {
 <div className="flex flex-col items-center justify-center mt-12">
   <Typography className="font-light pb-10"variant="h1" color="white" style={{ fontFamily: "Courier New" }}>
   <span className='text-transparent bg-clip-text bg-green-400'>
-                Dev<span className='text-green-600'>Hub</span>
+                Developers<span className='text-green-600'>Bay</span>
             </span> 
             <p className="text-sm">social media app for developers</p>
                  </Typography>
